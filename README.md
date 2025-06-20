@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
-# Experience
-헤더1|헤더2|헤더3|헤더4
----|---|---|---
+# COMPETITION
+날짜|주최|대회명|순위|상위|링크
+---|---|---|---|---|---|
 셀1|셀2|셀3|셀4
 셀5|셀6|셀7|셀8
-셀9|셀10|셀11|셀12
+2024.07|LG AI Research||셀12
