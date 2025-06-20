@@ -21,15 +21,15 @@
 </div>
 
 <br/>
-
+💻 Tech Stack 💻
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
 # COMPETITION
-날짜|주최|대회명|순위|상위|링크
+날짜|대회명|주제|순위|상위|링크
 ---|---|---|---|---|---|
-셀1|셀2|셀3|셀4
-셀5|셀6|셀7|셀8
-2024.07|LG AI Research||셀12
+2025.06|셀2|셀3|셀4
+2025.03|셀6|셀7|셀8
+2024.09|LG Aimers 5기 오프라인 해커
