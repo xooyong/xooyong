@@ -6,8 +6,8 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="Anurag's GitHub stats">
+  <a href="https://github.com/xooyong/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=xooyong" alt="Anurag's GitHub stats">
   </a>
 
   <br/>
