@@ -6,7 +6,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api?username=xooyong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="xooyong_d.v's GitHub stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="Anurag's GitHub stats">
+  </a>
 
   <br/>
 
