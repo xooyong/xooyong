@@ -1,5 +1,6 @@
 <div align="center">
   <strong><em>Every effort is a step forward</em></strong>
+  <a href="https://xooyong.github.io/">Blog</a>
 </div>
 
 <br/>
