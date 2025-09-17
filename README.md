@@ -42,8 +42,8 @@
       <th width="25%">프로젝트</th>
       <th width="32%">설명</th>
       <th width="12%">성과</th>
-      <th width="12%">링크</th>
-      <th width="14%">비고</th>
+      <th width="10%">링크</th>
+      <th width="15%">비고</th>
     </tr>
   </thead>
   <tbody>
