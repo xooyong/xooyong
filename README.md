@@ -39,11 +39,11 @@
   <thead>
     <tr>
       <th width="5%">🏆</th>
-      <th width="30%">프로젝트</th>
-      <th width="35%">설명</th>
+      <th width="25%">프로젝트</th>
+      <th width="32%">설명</th>
       <th width="12%">성과</th>
       <th width="12%">링크</th>
-      <th width="6%">비고</th>
+      <th width="14%">비고</th>
     </tr>
   </thead>
   <tbody>
