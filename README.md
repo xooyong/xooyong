@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td align="center">🎯</td>
-      <td><b>Samsung AI Challenge</b><br><sub>2025.08</sub></td>
+      <td><b>2025 Samsung Collegiate Programming Challenge: AI</b><br><sub>2025.08</sub></td>
       <td>Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론</td>
       <td align="center"><b>Top 6%</b><br>16/242</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a> <a href="https://github.com/xooyong/scpc">📂</a></td>
@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td align="center">💰</td>
-      <td><b>채무 불이행 예측</b><br><sub>2025.03</sub></td>
+      <td><b>DACON 채무 불이행 예측</b><br><sub>2025.03</sub></td>
       <td>금융 데이터를 이용한 채무 불이행 예측</td>
       <td align="center"><b>Top 2%</b><br>19/703</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent">📂</a></td>
