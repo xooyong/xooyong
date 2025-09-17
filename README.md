@@ -40,50 +40,65 @@
 2024.09|LG Aimers 5기 오프라인 해커톤 제품 이상 판별 프로젝트|디스플레이 공정 데이터를 이용한 제품 이상 유무 분류|38/740<br> Top 5%|[Github](https://github.com/xooyong/LG-Aimers-5)|수료
 
 
-<h1>COMPETITION</h1>
-<table>
+<div align="center">
+  <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
+  <p>AI/ML 경진대회 프로젝트 포트폴리오</p>
+</div>
+<table align="center" style="width: 95%; margin: auto;">
   <thead>
     <tr>
-      <th>날짜</th>
-      <th>대회명</th>
-      <th>내용</th>
-      <th>순위</th>
-      <th>링크</th>
-      <th>비고</th>
+      <th width="5%">🏆</th>
+      <th width="25%">프로젝트</th>
+      <th width="30%">설명</th>
+      <th width="20%">핵심 기술</th>
+      <th width="10%">성과</th>
+      <th width="10%">링크</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025.08</td>
-      <td>2025 Samsung Collegiate Programming Challenge : AI 챌린지</td>
+      <td align="center">🎯</td>
+      <td><b>Samsung AI Challenge</b><br><sub>2025.08</sub></td>
       <td>Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론</td>
-      <td>16/242<br>Top 6%</td>
-      <td><a href="https://dacon.io/competitions/official/236500/overview/description">DACON</a>, <a href="https://github.com/xooyong/scpc">Github</a></td>
-      <td>본선 진출</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Multi--modal-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vision--Language-4B0082?style=flat-square"/>
+      </td>
+      <td align="center"><b>Top 6%</b><br>16/242</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a> <a href="https://github.com/xooyong/scpc">📂</a></td>
     </tr>
     <tr>
-      <td>2025.06</td>
-      <td>HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회</td>
+      <td align="center">🚗</td>
+      <td><b>Hecto AI Challenge</b><br><sub>2025.06</sub></td>
       <td>중고차 396종 다중 클래스 이미지 분류</td>
-      <td>21/748<br>Top 2%</td>
-      <td><a href="https://dacon.io/competitions/official/236493/overview/description">DACON</a>, <a href="https://github.com/xooyong/dacon-used-car-clf">Github</a></td>
-      <td>채용 인재풀 등록</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Computer--Vision-4B0082?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Classification-FF9900?style=flat-square"/>
+      </td>
+      <td align="center"><b>Top 2%</b><br>21/748</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">🏆</a> <a href="https://github.com/xooyong/dacon-used-car-clf">📂</a></td>
     </tr>
     <tr>
-      <td>2025.03</td>
-      <td>DACON 채무 불이행 여부 예측 해커톤</td>
+      <td align="center">💰</td>
+      <td><b>채무 불이행 예측</b><br><sub>2025.03</sub></td>
       <td>금융 데이터를 이용한 채무 불이행 예측</td>
-      <td>19/703<br>Top 2%</td>
-      <td><a href="https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent">DACON</a></td>
-      <td></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Machine--Learning-189FFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Classification-FF6B6B?style=flat-square"/>
+      </td>
+      <td align="center"><b>Top 2%</b><br>19/703</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent">📂</a></td>
     </tr>
     <tr>
-      <td>2024.09</td>
-      <td>LG Aimers 5기 오프라인 해커톤 제품 이상 판별 프로젝트</td>
+      <td align="center">🏭</td>
+      <td><b>LG Aimers 해커톤</b><br><sub>2024.09</sub></td>
       <td>디스플레이 공정 데이터를 이용한 제품 이상 유무 분류</td>
-      <td>38/740<br>Top 5%</td>
-      <td><a href="https://github.com/xooyong/LG-Aimers-5">Github</a></td>
-      <td>수료</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Anomaly--Detection-37814A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Manufacturing-FECC00?style=flat-square"/>
+      </td>
+      <td align="center"><b>Top 5%</b><br>38/740</td>
+      <td align="center"><a href="https://github.com/xooyong/LG-Aimers-5">📂</a></td>
     </tr>
   </tbody>
 </table>
