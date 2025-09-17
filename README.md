@@ -16,10 +16,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndyd" alt="Solved.ac Profile" />
   </a>
 
-  <a href="https://github.com/xooyong/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xooyong&layout=compact" alt="Top Langs" />
-  </a>
-
 </div>
 
 <br/>
