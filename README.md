@@ -33,7 +33,6 @@
 
 <div align="center">
   <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
-  <p>AI/ML 경진대회 프로젝트 포트폴리오</p>
 </div>
 <table align="center" style="width: 95%; margin: auto;">
   <thead>
