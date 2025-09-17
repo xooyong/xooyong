@@ -48,11 +48,11 @@
   <thead>
     <tr>
       <th width="5%">🏆</th>
-      <th width="25%">프로젝트</th>
-      <th width="30%">설명</th>
-      <th width="20%">핵심 기술</th>
-      <th width="10%">성과</th>
-      <th width="10%">링크</th>
+      <th width="30%">프로젝트</th>
+      <th width="35%">설명</th>
+      <th width="12%">성과</th>
+      <th width="12%">링크</th>
+      <th width="6%">비고</th>
     </tr>
   </thead>
   <tbody>
@@ -60,45 +60,33 @@
       <td align="center">🎯</td>
       <td><b>Samsung AI Challenge</b><br><sub>2025.08</sub></td>
       <td>Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Multi--modal-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vision--Language-4B0082?style=flat-square"/>
-      </td>
       <td align="center"><b>Top 6%</b><br>16/242</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a> <a href="https://github.com/xooyong/scpc">📂</a></td>
+      <td align="center">본선 진출</td>
     </tr>
     <tr>
       <td align="center">🚗</td>
       <td><b>Hecto AI Challenge</b><br><sub>2025.06</sub></td>
       <td>중고차 396종 다중 클래스 이미지 분류</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Computer--Vision-4B0082?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Classification-FF9900?style=flat-square"/>
-      </td>
       <td align="center"><b>Top 2%</b><br>21/748</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">🏆</a> <a href="https://github.com/xooyong/dacon-used-car-clf">📂</a></td>
+      <td align="center">채용 인재풀 등록</td>
     </tr>
     <tr>
       <td align="center">💰</td>
       <td><b>채무 불이행 예측</b><br><sub>2025.03</sub></td>
       <td>금융 데이터를 이용한 채무 불이행 예측</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine--Learning-189FFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Classification-FF6B6B?style=flat-square"/>
-      </td>
       <td align="center"><b>Top 2%</b><br>19/703</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent">📂</a></td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">🏭</td>
       <td><b>LG Aimers 해커톤</b><br><sub>2024.09</sub></td>
       <td>디스플레이 공정 데이터를 이용한 제품 이상 유무 분류</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Anomaly--Detection-37814A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Manufacturing-FECC00?style=flat-square"/>
-      </td>
       <td align="center"><b>Top 5%</b><br>38/740</td>
       <td align="center"><a href="https://github.com/xooyong/LG-Aimers-5">📂</a></td>
+      <td align="center">수료</td>
     </tr>
   </tbody>
 </table>
