@@ -31,15 +31,6 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
-# COMPETITION
-날짜|대회명|내용|순위|링크|비고
----|---|---|---|---|---|
-2025.08|2025 Samsung Collegiate Programming Challenge : AI 챌린지|Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론|16/242<br>Top 6%|[DACON](https://dacon.io/competitions/official/236500/overview/description), [Github](https://github.com/xooyong/scpc)|본선 진출|
-2025.06|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|중고차 396종 다중 클래스 이미지 분류|21/748<br> Top 2%|[DACON](https://dacon.io/competitions/official/236493/overview/description), [Github](https://github.com/xooyong/dacon-used-car-clf)|채용 인재풀 등록 
-2025.03|DACON 채무 불이행 여부 예측 해커톤|금융 데이터를 이용한 채무 불이행 예측|19/703<br> Top 2%|[DACON](https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent)
-2024.09|LG Aimers 5기 오프라인 해커톤 제품 이상 판별 프로젝트|디스플레이 공정 데이터를 이용한 제품 이상 유무 분류|38/740<br> Top 5%|[Github](https://github.com/xooyong/LG-Aimers-5)|수료
-
-
 <div align="center">
   <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
   <p>AI/ML 경진대회 프로젝트 포트폴리오</p>
