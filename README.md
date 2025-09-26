@@ -27,27 +27,9 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
-<div align="center">
-  <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
-</div>
-<table align="center" style="width: 95%; margin: auto;">
-  <thead>
-    <tr>
-      <th width="5%">🏆</th>
-      <th width="25%">프로젝트</th>
-      <th width="32%">설명</th>
-      <th width="12%">성과</th>
-      <th width="10%">링크</th>
-      <th width="15%">비고</th>
-    </tr>
-  </thead>
-  <tbody>
-</div>
-
 <br/>
 
 <div align="center">
-
   <a href="https://github.com/xooyong/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=xooyong" alt="Anurag's GitHub stats">
   </a>
