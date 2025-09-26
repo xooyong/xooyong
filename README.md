@@ -30,21 +30,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/xooyong/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xooyong" alt="Anurag's GitHub stats">
-  </a>
-
-  <br/>
-
-  <a href="https://solved.ac/dlwndyd/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndyd" alt="Solved.ac Profile" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
   <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
 </div>
 <table align="center" style="width: 95%; margin: auto;">
