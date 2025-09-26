@@ -49,7 +49,7 @@
       <td><b>AI Co-Scientist : 2025 Samsung AI Challenge</b><br><sub>2025.09</sub></td>
       <td>AI 에이전트 기반 자동화 시스템 설계 및 개발</td>
       <td align="center"><b>Top 2%</b><br>3/141</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a>📂</a> <a href="https://github.com/xooyong/Ai_Co_Sci_2025"> </td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a><a href="https://github.com/xooyong/Ai_Co_Sci_2025">📂</a></td>
       <td align="center">장려상🥉</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
       <td><b>2025 Samsung Collegiate Programming Challenge: AI</b><br><sub>2025.08</sub></td>
       <td>Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론</td>
       <td align="center"><b>Top 6%</b><br>16/242</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a>📂 </a> <a href="https://github.com/xooyong/scpc"></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a><a href="https://github.com/xooyong/scpc">📂</a></td>
       <td align="center">본선 진출</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
       <td><b>Hecto AI Challenge</b><br><sub>2025.06</sub></td>
       <td>중고차 396종 다중 클래스 이미지 분류</td>
       <td align="center"><b>Top 2%</b><br>21/748</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">🏆</a>📂</a> <a href="https://github.com/xooyong/dacon-used-car-clf"></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">🏆</a><a href="https://github.com/xooyong/dacon-used-car-clf">📂</a></td>
       <td align="center">채용 인재풀 등록</td>
     </tr>
     <tr>
