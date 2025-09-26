@@ -42,13 +42,6 @@
     </tr>
   </thead>
   <tbody>
-     <tr>
-      <td align="center">🎯</td>
-      <td><b>AI Co-Scientist : 2025 Samsung AI Challenge</b><br><sub>2025.09</sub></td>
-      <td>AI 에이전트 기반 자동화 시스템 설계 및 개발</td>
-      <td align="center"><b>Top 2%</b><br>3/141</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a> <a href="https://github.com/xooyong/scpc">📂</a></td>
-      <td align="center">장려상  <strong><em>Every effort is a step forward</em></strong>
 </div>
 
 <br/>
