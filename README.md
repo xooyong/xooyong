@@ -50,7 +50,7 @@
       <td>AI 에이전트 기반 자동화 시스템 설계 및 개발</td>
       <td align="center"><b>Top 2%</b><br>3/141</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a><a href="https://github.com/xooyong/Ai_Co_Sci_2025">📂</a></td>
-      <td align="center">장려상🥉</td>
+      <td align="center">🥉장려상</td>
     </tr>
     <tr>
       <td align="center">🎯</td>
