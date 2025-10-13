@@ -44,6 +44,14 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td align="center">👆</td>
+      <td><b>토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발/b><br><sub>2025.10</sub></td>
+      <td>CTR 광고 클릭 예측</td>
+      <td align="center"><b>Top 9%</b><br>64/709</td>
+      <td align="center"><a href="[https://dacon.io/competitions/official/236500/overview/description](https://dacon.io/competitions/official/236575/overview/description)">🏆</a><a href="https://github.com/Toss-junebrothers/toss">📂</a></td>
+      <td align="center"></td>
+     </tr>
      <tr>
       <td align="center">🤖</td>
       <td><b>AI Co-Scientist : 2025 Samsung AI Challenge</b><br><sub>2025.09</sub></td>
