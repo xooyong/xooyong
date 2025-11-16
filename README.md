@@ -63,7 +63,7 @@
     <tr>
       <td align="center">🎯</td>
       <td><b>2025 Samsung Collegiate Programming Challenge: AI</b><br><sub>2025.08</sub></td>
-      <td>Multi-modal Model을 활용한 이미지에 대한 선다형 질문 추론</td>
+      <td>- 사진과 선다형 질문을 이해하고 정답을 선택하는 Multi-modal Model 개발</td>
       <td align="center"><b>Top 6%</b><br>16/242</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a><a href="https://github.com/xooyong/scpc">📂</a></td>
       <td align="center">본선 진출</td>
