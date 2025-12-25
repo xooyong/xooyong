@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://github.com/xooyong/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xooyong" alt="xooyong's Github state>
+    <img src="https://github-readme-stats.vercel.app/api?username=xooyong" alt="xooyong's Github state" />
   </a>
 
   <br/>
