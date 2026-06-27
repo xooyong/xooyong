@@ -4,28 +4,16 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=xooyong&show_icons=true&theme=transparent&hide_border=true"
-          alt="GitHub Stats"
-          height="180"
-        />
-      </td>
-      <td align="center">
-        <a href="https://solved.ac/dlwndyd/">
-          <img
-            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndyd"
-            alt="Solved.ac Profile"
-            height="180"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xooyong&show_icons=true&theme=transparent&hide_border=true"
+    height="180"
+  />
+  <img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndyd"
+    height="180"
+  />
+</p>
 
 <br/>
 
