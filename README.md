@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://GitHub.com/xooyong/Github-readme-stats-fast"
+    src="https://github-readme-stats-fast.vercel.app/api?username=xooyong&show_icons=true&theme=transparent&hide_border=true"
     height="180"
   />
   <img
