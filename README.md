@@ -29,7 +29,7 @@
 
 <h2 align="center"> 📚 Publications 📚 </h2>
 
-<h3>🌍 International </h3>
+<h3>International</h3>
 
 <ul>
   <li>
@@ -38,12 +38,10 @@
   </li>
 </ul>
 
-<h3>🇰🇷 Domestic Publications</h3>
+<h3>Domestic</h3>
 
 <ul>
   <li>
-    <b>[논문 제목]</b><br/>
-    <i>[학술지 / 학회명]</i> (Published)
   </li>
 </ul>
 
