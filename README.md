@@ -18,15 +18,6 @@
 
 <br/>
 
-<h2 align="center"> 💻 Tech Stack 💻 </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-</p>
-
-<br/>
-
 <h2 align="center"> 📚 Publications 📚 </h2>
 
 <h3>International</h3>
@@ -44,6 +35,15 @@
   <li>
   </li>
 </ul>
+
+<br/>
+
+<h2 align="center"> 💻 Tech Stack 💻 </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
 
 <br/>
 
