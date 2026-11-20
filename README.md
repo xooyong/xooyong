@@ -24,7 +24,7 @@
 
 <ul>
   <li>
-    <b>P2Edit: Planning and History-Guided Preservation for Multi-turn 3D Gaussian Editing</b><br/>
+    <b></b><br/>
     <i>(Under Review)</i>
   </li>
 </ul>
