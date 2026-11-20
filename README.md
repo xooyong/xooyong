@@ -33,7 +33,7 @@
 
 <ul>
   <li>
-    <b>P2Edit:Planning and History-guided preservation for Multi-turn 3D Gaussian Editing</b><br/>
+    <b>P2Edit: Planning and History-guided preservation for Multi-turn 3D Gaussian Editing</b><br/>
     <i>(Under Review)</i>
   </li>
 </ul>
