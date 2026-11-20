@@ -1,77 +1,133 @@
 
-<h2 align="center">📚 Publications 📚</h2>
+<div align="center">
+  <strong><em>Every effort is a step forward</em></strong>
+</div>
 
-<h3 align="center">🌍 International Publications</h3>
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=xooyong&show_icons=true&theme=transparent&hide_border=true"
+    height="180"
+  />
+  <img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndyd"
+    height="180"
+  />
+</p>
+
+<br/>
+
+<h2 align="center"> 💻 Tech Stack 💻 </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center"> 📚 Publications 📚 </h2>
+
+<h3>🌍 International </h3>
+
+<ul>
+  <li>
+    <b>P2Edit:Planning and History-guided preservation for Multi-turn 3D Gaussian Editing</b><br/>
+    <i>(Under Review)</i>
+  </li>
+</ul>
+
+<h3>🇰🇷 Domestic Publications</h3>
+
+<ul>
+  <li>
+    <b>[논문 제목]</b><br/>
+    <i>[학술지 / 학회명]</i> (Published)
+  </li>
+</ul>
+
+<br/>
+
+<div align="center">
+  <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🚀 Competition Projects</h2>
+</div>
 
 <table align="center" style="width: 95%; margin: auto;">
   <thead>
     <tr>
-      <th width="45%">논문명</th>
-      <th width="20%">학술지 / 학회</th>
-      <th width="15%">저자 구분</th>
+      <th width="5%">🏆</th>
+      <th width="25%">프로젝트</th>
+      <th width="32%">설명</th>
+      <th width="12%">성과</th>
       <th width="10%">링크</th>
-      <th width="10%">비고</th>
+      <th width="15%">비고</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <b>초음파 영상의 Speckle Noise 제거 연구</b>
-      </td>
+      <td align="center">👆</td>
+      <td><b>토스 NEXT ML CHALLENGE: 광고 클릭 예측(CTR)</b><br/><sub>2025.10</sub></td>
+      <td>광고 클릭 예측(CTR)</td>
+      <td align="center"><b>Top 9%</b><br/>64/709</td>
       <td align="center">
-        <b>IEEE Access</b>
+        <a href="https://dacon.io/competitions/official/236575/overview/description">🏆</a>
+        <a href="https://github.com/Toss-junebrothers/toss">📂</a>
       </td>
-      <td align="center">제1저자</td>
-      <td align="center">
-        <a href="#">📄</a>
-      </td>
-      <td align="center">Published</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td>
-        <b>Alzheimer's MRI 미래 영상 예측 연구</b>
-      </td>
+      <td align="center">🤖</td>
+      <td><b>AI Co-Scientist : 2025 Samsung AI Challenge</b><br/><sub>2025.09</sub></td>
+      <td>AI 에이전트 기반 자동화 시스템 설계 및 개발</td>
+      <td align="center"><b>Top 2%</b><br/>3/141</td>
       <td align="center">
-        <b>ICPR</b>
+        <a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a>
+        <a href="https://github.com/xooyong/Ai_Co_Sci_2025">📂</a>
+      </td>
+      <td align="center">🥉장려상</td>
+    </tr>
+    <tr>
+      <td align="center">🎯</td>
+      <td><b>2025 Samsung Collegiate Programming Challenge: AI</b><br/><sub>2025.08</sub></td>
+      <td>사진과 선다형 질문을 이해하고 정답을 선택하는 Multi-modal Model 개발</td>
+      <td align="center"><b>Top 6%</b><br/>16/242</td>
+      <td align="center">
+        <a href="https://dacon.io/competitions/official/236500/overview/description">🏆</a>
+        <a href="https://github.com/xooyong/scpc">📂</a>
+      </td>
+      <td align="center">본선 진출</td>
+    </tr>
+    <tr>
+      <td align="center">🚗</td>
+      <td><b>Hecto AI Challenge</b><br/><sub>2025.06</sub></td>
+      <td>중고차 396종 다중 클래스 이미지 분류</td>
+      <td align="center"><b>Top 2%</b><br/>21/748</td>
+      <td align="center">
+        <a href="https://dacon.io/competitions/official/236493/overview/description">🏆</a>
+        <a href="https://github.com/xooyong/dacon-used-car-clf">📂</a>
+      </td>
+      <td align="center">채용 인재풀 등록</td>
+    </tr>
+    <tr>
+      <td align="center">💰</td>
+      <td><b>DACON 채무 불이행 예측</b><br/><sub>2025.03</sub></td>
+      <td>금융 데이터를 이용한 채무 불이행 예측</td>
+      <td align="center"><b>Top 2%</b><br/>19/703</td>
+      <td align="center">
+        <a href="https://dacon.io/competitions/official/236450/codeshare/12304?page=1&dtype=recent">📂</a>
       </td>
       <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">🏭</td>
+      <td><b>LG Aimers 해커톤</b><br/><sub>2024.09</sub></td>
+      <td>디스플레이 공정 데이터를 이용한 제품 이상 유무 분류</td>
+      <td align="center"><b>Top 5%</b><br/>38/740</td>
       <td align="center">
-        <a href="#">📄</a>
+        <a href="https://github.com/xooyong/LG-Aimers-5">📂</a>
       </td>
-      <td align="center">Accepted</td>
+      <td align="center">수료</td>
     </tr>
   </tbody>
 </table>
-
-<br/>
-
-<h3 align="center">🇰🇷 Domestic Publications</h3>
-
-<table align="center" style="width: 95%; margin: auto;">
-  <thead>
-    <tr>
-      <th width="45%">논문명</th>
-      <th width="20%">학술지 / 학회</th>
-      <th width="15%">저자 구분</th>
-      <th width="10%">링크</th>
-      <th width="10%">비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>논문명</b>
-      </td>
-      <td align="center">
-        <b>학술지 / 학회명</b>
-      </td>
-      <td align="center">제1저자</td>
-      <td align="center">
-        <a href="#">📄</a>
-      </td>
-      <td align="center">Published</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
